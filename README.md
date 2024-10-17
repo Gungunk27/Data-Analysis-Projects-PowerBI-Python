@@ -12,6 +12,7 @@ This project is designed to explore and analyze diverse datasets to identify tre
 - **Myntra**: Examination of customer behavior and sales data from Myntra to uncover shopping patterns.
 - **Population of India 2022**: Demographic data analysis aimed at understanding population trends and implications.
 - **Superstore Sales**: Performance analysis of retail sales to identify trends and customer preferences.
+- **Adidas Sales**: Performance analysis of Adidas sales to identify product trends, customer preferences, and market demand.
 
 ## Sample Insights
 
@@ -43,6 +44,13 @@ This project is designed to explore and analyze diverse datasets to identify tre
   - Best-selling product: Office Supplies (35% of total sales)
   - Average transaction value: $150
 
+### 5. Adidas Sales
+- **CSV File**: `adidas_sales_data.csv`
+- **Key Insights**:
+  - Total Sales: $122 million in revenue.
+  - Total Units Sold: 310,000 units.
+
+
 ## Technologies Used
 
 - **Python**: Utilized for data manipulation, analysis, and algorithm implementation.
@@ -66,6 +74,10 @@ This project is designed to explore and analyze diverse datasets to identify tre
 ### 4. Superstore Sales
 - **Objective**: To analyze sales data from a retail superstore, identifying performance metrics and sales trends.
 - **Insights**: Provides analysis of sales by product category, seasonal variations, and recommendations for inventory management to optimize stock levels.
+
+### 5. Adidas Sales
+- **Objective**: To analyze Adidas sales data, identifying key performance indicators and trends to enhance business strategies.
+- **Insights**: Offers a detailed analysis of sales by product type, seasonal demand patterns, and provides strategic recommendations for optimizing marketing efforts and inventory management.
 
 ## Conclusion
 
