@@ -1,6 +1,6 @@
 # Data Analysis Projects - PowerBI & Python
 
-Welcome to the **Data Analysis Projects - PowerBI & Python** repository! This collection features comprehensive analyses leveraging Python and PowerBI across various datasets, including **Blinkit**, **Myntra**, **Population of India 2022**, and **Superstore Sales**. Each analysis aims to derive actionable insights and support strategic decision-making.
+Welcome to the **Data Analysis Projects - PowerBI & Python** repository! This collection features comprehensive analyses leveraging Python and PowerBI across various datasets, including **Blinkit**, **Myntra**, **Population of India 2022**,**Adidas Sales**, and **Superstore Sales**. Each analysis aims to derive actionable insights and support strategic decision-making.
 
 ## Project Overview
 
